@@ -17,6 +17,7 @@
     </div>
     <div class="content">
         <h1>Welcome to XYZ College</h1>
+	<h1>ABC College </h1>
         <img src="assets/college.jpg" alt="College Image">
         <p>XYZ College offers a variety of courses and a quality education. Welcome to your future!</p>
     </div>
